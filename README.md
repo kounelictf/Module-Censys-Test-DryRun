@@ -6,5 +6,5 @@ To run this, you need the censys py module
 
 1) Censys Account
 2) pip install censys
-3) censys config
+3) type censys config
 
